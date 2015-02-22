@@ -3647,6 +3647,26 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "CicekSepeti iOS & Android Apps",
+      "thumb": "ciceksepeti/thumb.png",
+      "desc": "CicekSepeti, the leading flower and gifting-based e-commerce company in Turkey, delivers flowers, jewelry, gourmet products, toys, and other gifts to customers across the country, including same-day deliveries in most metropolitan areas.",
+      "url": "https://itunes.apple.com/tr/app/cicek-sepeti/id723715907?mt=8",
+      "info": "http://www.ciceksepeti.com",
+      "submitter": "CicekSepeti",
+      "submissionDate": "2015-02-23",
+      "tags": [
+        "Production",
+        "E-Commerce",
+        "Cordova",
+        "Typescript",
+        "jQuery",
+        "CSS3",
+        "Mobile",
+        "RESTful",
+        "Shopping"
+      ]
     }
 
   ]
